@@ -4,7 +4,7 @@
 - I hope I can settle down and learn from excellent people
 - I hope that `varlet` will become better and better and help more people
 - I hope i could be a calm person
-- I hope my gf treats me better
+- I hope my gf to love me forever
 
 <img src="https://github-readme-stats.vercel.app/api?username=haoziqaq&show_icons=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats"/>
 
